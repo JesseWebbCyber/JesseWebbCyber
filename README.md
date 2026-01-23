@@ -11,7 +11,7 @@ Hello, I'm Jesse. I'm CompTIA Security+ certified and passionate about cybersecu
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JesseWebbCyber/Vulnerability_Management_Program/)**
-- **COMING SOON Programmatic Vulnerability Remediations (PowerShell and BASH) COMING SOON**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/JesseWebbCyber/Programmatic_Vulnerability_Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
