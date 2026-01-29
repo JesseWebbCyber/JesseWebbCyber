@@ -16,7 +16,7 @@ Hello, I'm Jesse. I'm CompTIA Security+ certified and passionate about cybersecu
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JesseWebbCyber/Threat_Hunting_Scenario_Tor)**
-- **[Threat Hunting Scenario (CorpHealth: Traceback)](https://github.com/JesseWebbCyber/Threat_Hunting_Scenarios-CorpHealth_Traceback)**
+- **[Threat Hunting Scenario (CorpHealth: Traceback)](https://github.com/JesseWebbCyber/Threat_Hunting_Scenarios-CorpHealth_Traceback/blob/main/Threat_Hunt_Report.md)**
 
 
 ## 🏆 Certifications
