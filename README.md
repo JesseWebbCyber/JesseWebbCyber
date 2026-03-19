@@ -1,27 +1,50 @@
-# <a href="https://www.linkedin.com/in/jessewebbitcyberprofessional/">Jesse Webb</a>'s Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jessewebbitcyberprofessional/">Jesse Webb</a> | Cybersecurity Portfolio 🔐
 
-Hello, I'm Jesse. I'm CompTIA Security+ certified and passionate about cybersecurity. I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity Analyst specializing in vulnerability management, threat detection, and SIEM-based monitoring across Windows and Linux environments.
 
+Hands-on experience using Tenable, Microsoft Sentinel, Defender for Endpoint, KQL, and Powershell to reduce risk, detect threats, and automate remediation workflows.
 
+This portfolio highlights practical cybersecurity work, including:
+- Vulnerability management programs with risk-based prioritization (CVSS)
+- PowerShell-based remediation and automation
+- SIEM dashboards and KQL detection queries
+- Threat hunting scenarios and log analysis
+- Network segmentation and firewall monitoring
 
+**Tools:** Microsoft Sentinel | Defender for Endpoint | Tenable | PowerShell | KQL
 
+---
 
+## ⭐ Featured Project
 
+- **[Vulnerability Management Program Implementation](https://github.com/JesseWebbCyber/Vulnerability_Management_Program/)**
+  - Designed and implemented a full vulnerability management workflow using Tenable and CVSS prioritization to identify, prioritize, and remediate vulnerabilities.
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/JesseWebbCyber/Vulnerability_Management_Program/)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/JesseWebbCyber/Programmatic_Vulnerability_Remediations)**
+  - Automated vulnerability remediation workflows using PowerShell to reduce exposure and improve system security posture.
+
+---
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JesseWebbCyber/Threat_Hunting_Scenario_Tor)**
-- **[Threat Hunting Scenario (CorpHealth: Traceback)](https://github.com/JesseWebbCyber/Threat_Hunting_Scenarios-CorpHealth_Traceback/blob/main/Threat_Hunt_Report.md)**
+  - Investigated suspicious activity using endpoint telemetry and log analysis to identify unauthorized Tor usage.
 
+- **[Threat Hunting Scenario (CorpHealth: Traceback)](https://github.com/JesseWebbCyber/Threat_Hunting_Scenarios-CorpHealth_Traceback/blob/main/Threat_Hunt_Report.md)**
+  - Conducted threat hunting and incident analysis to trace malicious activity and validate detection workflows.
+
+---
 
 ## 🏆 Certifications
+
 - CompTIA Security+ (SY0-701)
 - Google Cybersecurity Certificate (Coursera)
+
+---
 
 ## 🔗 Connect With Me
 
